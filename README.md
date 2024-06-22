@@ -5,4 +5,6 @@ An Arx Fatalis mod that restores the original funny behavior of mice that Arkane
 **Compatible with
 [Arx Libertatis Mod Manager](https://github.com/fredlllll/ArxLibertatisModManager)**
 
-Video to showcase the old mouse behavior: https://youtu.be/ZTMBN-bqIqk?si=YgshLzuhzhSbFqaC&t=393
+![Preview](preview.jpg?raw=true "Preview")
+
+Video to showcase the behavior: https://youtu.be/ZTMBN-bqIqk?si=YgshLzuhzhSbFqaC&t=393
